@@ -2,7 +2,7 @@
   "name": "my_weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Michael-m24.github.io/Michael-Atlas-06-07-2020/",
+  "homepage": "https://Michael-m24.github.io/My-Weather/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
