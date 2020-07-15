@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Michael-Atlas-06-07-2020/static/css/main.c17d2729.chunk.css",
+    "main.js": "/Michael-Atlas-06-07-2020/static/js/main.5aa272a1.chunk.js",
+    "main.js.map": "/Michael-Atlas-06-07-2020/static/js/main.5aa272a1.chunk.js.map",
+    "runtime-main.js": "/Michael-Atlas-06-07-2020/static/js/runtime-main.76829d84.js",
+    "runtime-main.js.map": "/Michael-Atlas-06-07-2020/static/js/runtime-main.76829d84.js.map",
+    "static/css/2.d34346ea.chunk.css": "/Michael-Atlas-06-07-2020/static/css/2.d34346ea.chunk.css",
+    "static/js/2.1410995a.chunk.js": "/Michael-Atlas-06-07-2020/static/js/2.1410995a.chunk.js",
+    "static/js/2.1410995a.chunk.js.map": "/Michael-Atlas-06-07-2020/static/js/2.1410995a.chunk.js.map",
+    "index.html": "/Michael-Atlas-06-07-2020/index.html",
+    "precache-manifest.ba0cedad22fb6a7fc91e182999d9834e.js": "/Michael-Atlas-06-07-2020/precache-manifest.ba0cedad22fb6a7fc91e182999d9834e.js",
+    "service-worker.js": "/Michael-Atlas-06-07-2020/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/Michael-Atlas-06-07-2020/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.c17d2729.chunk.css.map": "/Michael-Atlas-06-07-2020/static/css/main.c17d2729.chunk.css.map",
+    "static/js/2.1410995a.chunk.js.LICENSE.txt": "/Michael-Atlas-06-07-2020/static/js/2.1410995a.chunk.js.LICENSE.txt",
+    "static/media/15.png": "/Michael-Atlas-06-07-2020/static/media/15.39ac499c.png",
+    "static/media/16.png": "/Michael-Atlas-06-07-2020/static/media/16.0cf9cad1.png",
+    "static/media/17.png": "/Michael-Atlas-06-07-2020/static/media/17.3c85da3e.png",
+    "static/media/41.png": "/Michael-Atlas-06-07-2020/static/media/41.421c13f1.png",
+    "static/media/celcius2.svg": "/Michael-Atlas-06-07-2020/static/media/celcius2.629f1945.svg",
+    "static/media/clouds.svg": "/Michael-Atlas-06-07-2020/static/media/clouds.6f59df82.svg",
+    "static/media/dayPic.jpg": "/Michael-Atlas-06-07-2020/static/media/dayPic.c46c48db.jpg",
+    "static/media/nightPic.jpg": "/Michael-Atlas-06-07-2020/static/media/nightPic.68ec9237.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76829d84.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.1410995a.chunk.js",
+    "static/css/main.c17d2729.chunk.css",
+    "static/js/main.5aa272a1.chunk.js"
+  ]
+}
